@@ -6,3 +6,9 @@ Flea3 USB3 driver Link
 [KumarRobotics/flea3](https://github.com/KumarRobotics/flea3)
 
 https://drivers.softpedia.com/get/SCANNER-Digital-CAMERA-WEBCAM/Point-Grey/Point-Grey-Flea3-USB3-Vision-Camera-Firmware-2730.shtml
+
+---
+### Write device driver
+
+https://stackoverflow.com/questions/2222763/how-should-i-get-started-on-writing-device-drivers
+

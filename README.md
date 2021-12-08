@@ -12,3 +12,5 @@ https://drivers.softpedia.com/get/SCANNER-Digital-CAMERA-WEBCAM/Point-Grey/Point
 
 https://stackoverflow.com/questions/2222763/how-should-i-get-started-on-writing-device-drivers
 
+
+https://www.flir.com/support-center/iis/machine-vision/downloads/spinnaker-sdk-flycapture-and-firmware-download/
